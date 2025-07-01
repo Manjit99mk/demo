@@ -3,7 +3,7 @@ import HomePage from "./pages/HomePages"
 import AboutPage from "./pages/AboutPage"
 import CoursesPage from "./pages/CoursesPage"
 import ContactPage from "./pages/ContactPage"
-// import './styles/Pages.css'
+import './styles/Pages.css'
 import Footer from "./components/Footer/Footer"
 import ChatbotComponent from "./components/Chatbot/ChatbotComponents"
 //c:/ojt/DAY 4/VCK firstproject/vck-ojt-app/src/Components/Chatbot/ChatbotComponents
